@@ -263,26 +263,39 @@ Voici une version plus simple de l'intérêt d'utiliser un préprocesseur CSS �
 
 Tu peux stocker des valeurs (comme des couleurs) dans des variables et les réutiliser partout. Ça facilite les modifications si tu veux changer une couleur, par exemple.
 
+---
+
 ### 2. Code plus organisé avec l’imbrication 📑
 
 Tu peux imbriquer tes sélecteurs, ce qui rend ton code plus lisible et proche de la structure HTML.
+
+---
 
 ### 3. Blocs de code réutilisables avec les mixins 🔁
 
 Les mixins te permettent de créer des blocs de code que tu peux réutiliser partout. Cela réduit la répétition de code.
 
+---
+
 ### 4. Calculs et manipulations simples ➕➖
 
 Tu peux faire des calculs sur des valeurs, comme ajouter des tailles ou ajuster des couleurs automatiquement.
+
+---
 
 ### 5. Organisation avec des fichiers séparés 📂
 
 Tu peux diviser ton CSS en plusieurs fichiers et les importer. Cela aide à mieux organiser ton code.
 
+---
+
 ### 6. Optimisation du code ⚡
 
 Le préprocesseur peut réduire la taille de ton code quand il le compile, ce qui améliore la performance du site.
 
+---
+
 ### Conclusion 🏁 :
 
 Les préprocesseurs CSS rendent ton code plus propre, réutilisable, et facile à maintenir, surtout quand ton projet devient plus grand.
+
